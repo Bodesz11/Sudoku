@@ -1,4 +1,5 @@
 from random import shuffle
+#loli
 def makeBoard():
     K1=[[9,4,3,1,2,7,8,6,5],
        [1,2,7,6,5,8,3,9,4],
